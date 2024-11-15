@@ -38,5 +38,5 @@ This application is deployed and accessible online.
 ### Technologies Used
 Frontend: React.js, Tailwind CSS
 Storage: Browser localStorage
-## License
-This project is open-source and available under the MIT License.
+
+![Task Manager Screenshot](assets/application.png "Task Manager Application Screenshot")
