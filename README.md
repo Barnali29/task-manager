@@ -22,14 +22,18 @@ The **Task Manager Application** is a simple and intuitive web-based tool to hel
 ### Installation Steps
 1. Clone the repository to your local machine:
    git clone https://github.com/Barnali29/task-manager
-   cd task-manager
-   Install project dependencies: npm install
-   Start the development server: npm start
-   Open the app in your browser at http://localhost:3000
+   
+  # cd task-manager
+   
+  # Install project dependencies: npm install
+   
+  # Start the development server: npm start
+   
+  # Open the app in your browser at http://localhost:3000
 
    ### Deployment
 This application is deployed and accessible online.
-Deployed Link: https://clever-entremet-d6e434.netlify.app/
+# Deployed Link: https://clever-entremet-d6e434.netlify.app/
 
 ### Technologies Used
 Frontend: React.js, Tailwind CSS
